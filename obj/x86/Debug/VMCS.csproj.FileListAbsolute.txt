@@ -1,0 +1,23 @@
+C:\Users\oviquez\Documents\00.Cursos\Compiladores (IC-5701)\Material\generacion de codigo\VMs\VMCS\bin\Debug\desensamblador_codigo\fact_iter.txt
+C:\Users\oviquez\Documents\00.Cursos\Compiladores (IC-5701)\Material\generacion de codigo\VMs\VMCS\bin\Debug\desensamblador_codigo\test2.txt
+C:\Users\oviquez\Documents\00.Cursos\Compiladores (IC-5701)\Material\generacion de codigo\VMs\VMCS\bin\Debug\desensamblador_codigo\text.txt
+C:\Users\oviquez\Documents\00.Cursos\Compiladores (IC-5701)\Material\generacion de codigo\VMs\VMCS\bin\Debug\MiniPY.exe.config
+C:\Users\oviquez\Documents\00.Cursos\Compiladores (IC-5701)\Material\generacion de codigo\VMs\VMCS\bin\Debug\MiniPY.exe
+C:\Users\oviquez\Documents\00.Cursos\Compiladores (IC-5701)\Material\generacion de codigo\VMs\VMCS\bin\Debug\MiniPY.pdb
+C:\Users\oviquez\Documents\00.Cursos\Compiladores (IC-5701)\Material\generacion de codigo\VMs\VMCS\obj\x86\Debug\VMCS.csproj.AssemblyReference.cache
+C:\Users\oviquez\Documents\00.Cursos\Compiladores (IC-5701)\Material\generacion de codigo\VMs\VMCS\obj\x86\Debug\VMCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\oviquez\Documents\00.Cursos\Compiladores (IC-5701)\Material\generacion de codigo\VMs\VMCS\obj\x86\Debug\VMCS.csproj.CoreCompileInputs.cache
+C:\Users\oviquez\Documents\00.Cursos\Compiladores (IC-5701)\Material\generacion de codigo\VMs\VMCS\obj\x86\Debug\MiniPY.exe
+C:\Users\oviquez\Documents\00.Cursos\Compiladores (IC-5701)\Material\generacion de codigo\VMs\VMCS\obj\x86\Debug\MiniPY.pdb
+C:\Users\oviquez\Documents\00.Cursos\Compiladores (IC-5701)\Material\generacion de codigo\VMs\VMCS\bin\Debug\desensamblador_codigo\pruebas.txt
+D:\Universidad\Compiladores_e_Interpretes\Programaciones-Compiladores-E-Interpretes\obj\x86\Debug\MiniPY.exe
+D:\Universidad\Compiladores_e_Interpretes\Programaciones-Compiladores-E-Interpretes\obj\x86\Debug\MiniPY.pdb
+D:\Universidad\Compiladores_e_Interpretes\Programaciones-Compiladores-E-Interpretes\bin\Debug\desensamblador_codigo\fact_iter.txt
+D:\Universidad\Compiladores_e_Interpretes\Programaciones-Compiladores-E-Interpretes\bin\Debug\desensamblador_codigo\pruebas.txt
+D:\Universidad\Compiladores_e_Interpretes\Programaciones-Compiladores-E-Interpretes\bin\Debug\desensamblador_codigo\test2.txt
+D:\Universidad\Compiladores_e_Interpretes\Programaciones-Compiladores-E-Interpretes\bin\Debug\desensamblador_codigo\text.txt
+D:\Universidad\Compiladores_e_Interpretes\Programaciones-Compiladores-E-Interpretes\bin\Debug\MiniPY.exe.config
+D:\Universidad\Compiladores_e_Interpretes\Programaciones-Compiladores-E-Interpretes\bin\Debug\MiniPY.exe
+D:\Universidad\Compiladores_e_Interpretes\Programaciones-Compiladores-E-Interpretes\bin\Debug\MiniPY.pdb
+D:\Universidad\Compiladores_e_Interpretes\Programaciones-Compiladores-E-Interpretes\obj\x86\Debug\VMCS.csproj.AssemblyReference.cache
+D:\Universidad\Compiladores_e_Interpretes\Programaciones-Compiladores-E-Interpretes\obj\x86\Debug\VMCS.csproj.CoreCompileInputs.cache
