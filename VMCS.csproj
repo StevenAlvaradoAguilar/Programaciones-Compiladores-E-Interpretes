@@ -178,13 +178,13 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="desensamblador_codigo\a.txt" />
+    <Content Include="desensamblador_codigo\a.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="desensamblador_codigo\fact_iter.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="desensamblador_codigo\pruebas.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="desensamblador_codigo\pruebas.txt" />
     <Content Include="desensamblador_codigo\test2.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

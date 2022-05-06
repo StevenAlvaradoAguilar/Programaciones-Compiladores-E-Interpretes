@@ -1,9 +1,9 @@
-0 DEF algo
-0 LOAD_CONST "hola mundo"    
+﻿0 DEF metodo
+0 LOAD_CONST "Hola Mundo"    
 0 LOAD_GLOBAL print
 0 CALL_FUNCTION 1
 0 RETURN
 0 DEF Main
-0 LOAD_GLOBAL algo
+0 LOAD_GLOBAL metodo
 0 CALL_FUNCTION 0
 0 END
